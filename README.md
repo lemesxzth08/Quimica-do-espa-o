@@ -1,5 +1,6 @@
-#sala 106
-#nomes:Thaila Eduarda,Catarina Menquini,Mellina Aawar
+#Sala 106
+#Nomes:Thaila Eduarda,Catarina Menquini,Mellina Aawar
+#Prof:Mizael
 
 # A Química do Espaço
 
