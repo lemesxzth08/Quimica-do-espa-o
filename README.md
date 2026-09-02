@@ -4,7 +4,7 @@ Curso de Quimica
 | *Local / Laboratório* | Sala 106 |
 
 - Integrantes da Equipe
-- *Thaila Eduarda*
+- *Thaila Lemes*
 - *Catarina Menquini*
 - *Mellina Aawar*
 - *Mizael Souto*
